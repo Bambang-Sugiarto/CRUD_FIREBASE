@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:fontFamily="sans-serif-medium"
-            android:text="BIODATAKU"
+            android:text="MYBIODATA"
             android:textColor="@color/putih"
             android:textSize="20dp"
             android:textStyle="bold" />
